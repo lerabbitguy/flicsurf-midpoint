@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flicsurf-midpoint/static/css/main.0c9cc51f.css",
-    "main.js": "/flicsurf-midpoint/static/js/main.8d89d5e2.js",
+    "main.js": "/flicsurf-midpoint/static/js/main.4dba440f.js",
     "static/media/bear.jpg": "/flicsurf-midpoint/static/media/bear.f010dad4be7073b815e3.jpg",
     "static/media/detective.jpg": "/flicsurf-midpoint/static/media/detective.4d091b76c81a34f42604.jpg",
     "static/media/office.jpg": "/flicsurf-midpoint/static/media/office.b152aa00387bc70c1f56.jpg",
@@ -21,10 +21,10 @@
     "static/media/succession.jpg": "/flicsurf-midpoint/static/media/succession.433d6c3c156ba96678f4.jpg",
     "index.html": "/flicsurf-midpoint/index.html",
     "main.0c9cc51f.css.map": "/flicsurf-midpoint/static/css/main.0c9cc51f.css.map",
-    "main.8d89d5e2.js.map": "/flicsurf-midpoint/static/js/main.8d89d5e2.js.map"
+    "main.4dba440f.js.map": "/flicsurf-midpoint/static/js/main.4dba440f.js.map"
   },
   "entrypoints": [
     "static/css/main.0c9cc51f.css",
-    "static/js/main.8d89d5e2.js"
+    "static/js/main.4dba440f.js"
   ]
 }
