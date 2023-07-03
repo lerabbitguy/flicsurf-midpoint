@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/flicsurf-midpoint/static/css/main.0c9cc51f.css",
+    "main.js": "/flicsurf-midpoint/static/js/main.4dba440f.js",
+    "static/media/bear.jpg": "/flicsurf-midpoint/static/media/bear.f010dad4be7073b815e3.jpg",
+    "static/media/detective.jpg": "/flicsurf-midpoint/static/media/detective.4d091b76c81a34f42604.jpg",
+    "static/media/office.jpg": "/flicsurf-midpoint/static/media/office.b152aa00387bc70c1f56.jpg",
+    "static/media/robot.jpg": "/flicsurf-midpoint/static/media/robot.4f46876bfe535c5a36b9.jpg",
+    "static/media/Nexa-Heavy.ttf": "/flicsurf-midpoint/static/media/Nexa-Heavy.13e16a1c3c48dd492fa9.ttf",
+    "static/media/Nexa-ExtraLight.ttf": "/flicsurf-midpoint/static/media/Nexa-ExtraLight.2e3441a81090afda5785.ttf",
+    "static/media/bcs.jpg": "/flicsurf-midpoint/static/media/bcs.43e0bb4a92ed5d602cf9.jpg",
+    "static/media/spider.jpg": "/flicsurf-midpoint/static/media/spider.202492261bc377d63413.jpg",
+    "static/media/flash.jpg": "/flicsurf-midpoint/static/media/flash.f39551271c52bb2fb65b.jpg",
+    "static/media/indiana.jpg": "/flicsurf-midpoint/static/media/indiana.5861792219d4e4fed128.jpg",
+    "static/media/extraction.jpg": "/flicsurf-midpoint/static/media/extraction.056c04cdf755287c3d7b.jpg",
+    "static/media/asteroid.jpg": "/flicsurf-midpoint/static/media/asteroid.dcec927a52cd199c7008.jpg",
+    "static/media/silo.jpg": "/flicsurf-midpoint/static/media/silo.e48a5ebeb895c3b1102b.jpg",
+    "static/media/feelings.jpg": "/flicsurf-midpoint/static/media/feelings.54e568f0562e40741b2e.jpg",
+    "static/media/mirror.jpg": "/flicsurf-midpoint/static/media/mirror.30292a463f266842f975.jpg",
+    "static/media/chernobyl.jpg": "/flicsurf-midpoint/static/media/chernobyl.4cc1d20a75cbfd3ea7b9.jpg",
+    "static/media/succession.jpg": "/flicsurf-midpoint/static/media/succession.433d6c3c156ba96678f4.jpg",
+    "index.html": "/flicsurf-midpoint/index.html",
+    "main.0c9cc51f.css.map": "/flicsurf-midpoint/static/css/main.0c9cc51f.css.map",
+    "main.4dba440f.js.map": "/flicsurf-midpoint/static/js/main.4dba440f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c9cc51f.css",
+    "static/js/main.4dba440f.js"
+  ]
+}
